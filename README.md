@@ -6,7 +6,7 @@ Preventive is a web application which is used for health related issues and expe
 
 
 **Project Link** - https://yellow-plant-0e4ddf100.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/bK8kvW0TOV4
 
 
 ## Azure technologies used for Project:
