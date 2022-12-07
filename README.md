@@ -25,10 +25,6 @@ This is a web application developed for health related based website in india
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Screenshot (65)](https://user-images.githubusercontent.com/111230316/206102236-84b4ee26-5a50-4481-9009-91a4080688ff.png)
-![Screenshot (63)](https://user-images.githubusercontent.com/111230316/206102187-42ad6a0a-73a3-410d-8d98-c88c4de6eb
-![Screenshot (64)](https://user-images.githubusercontent.com/111230316/206102203-78ba0773-fe80-42c8-b650-a072b40df31f.png)
-4d.png)
 
 
 ### About Us -
