@@ -46,7 +46,8 @@ Preventive is a web application which is used for health related issues and expe
 ![Screenshot (75)](https://user-images.githubusercontent.com/111230316/206102951-7607212a-9a9f-45fb-9964-913c516072ca.png)
 
 
-## Tech Stack 💻
+## Tech Stack:
+
 * Azure(Hosting)
 * HTML
 * CSS
